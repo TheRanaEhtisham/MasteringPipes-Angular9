@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "masteringPipes"
+    }
+  },
+  "defaultProject": "masteringPipes",
+  "cli": {
+    "analytics": "5544ced6-48b7-45f0-937a-ac60086c0918"
+  }
 }
